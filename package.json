@@ -1,0 +1,1 @@
+{"name":"designer-cv-improver-site","private":true,"type":"module","scripts":{"build":"mkdir -p dist/server dist/assets && cp src/index.js dist/server/index.js && cp src/designer-cv-improver.SKILL.md dist/assets/designer-cv-improver.SKILL.md"}}
