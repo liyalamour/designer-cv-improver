@@ -10,11 +10,19 @@
 
 .nav-actions .btn {
   min-width: 132px;
+  height: 46px;
   text-align: center;
+  display: inline-flex !important;
+  align-items: center;
+  justify-content: center;
 }
 
 .lang {
   width: 48px;
+  height: 46px;
+  display: inline-flex !important;
+  align-items: center;
+  justify-content: center;
 }
 
 @media (max-width: 720px) {
