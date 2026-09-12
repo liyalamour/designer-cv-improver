@@ -1,0 +1,24 @@
+.nav {
+  display: grid !important;
+  grid-template-columns: 1fr auto 1fr;
+  align-items: center;
+}
+
+.nav-actions {
+  justify-self: end;
+}
+
+.nav-actions .btn {
+  min-width: 132px;
+  text-align: center;
+}
+
+.lang {
+  width: 48px;
+}
+
+@media (max-width: 720px) {
+  .nav-actions .btn {
+    min-width: auto;
+  }
+}
