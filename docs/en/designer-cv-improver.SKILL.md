@@ -104,13 +104,13 @@ For every uploaded-CV visual improvement request, first assess the content densi
 
 Choose the shortlist from the candidate's content and stated preference:
 
-- **Experienced product or design-system candidate:** Swiss Utility, Quiet Editorial, and Cobalt System.
-- **Early-career candidate or candidate with several projects, awards, or community roles:** Structured Rows, Soft Studio, and Swiss Utility.
-- **Visual, brand, or interaction designer:** Soft Studio, Quiet Editorial, and Cobalt System.
-- **Dense content, recruiter portals, or explicit ATS requirement:** ATS-Safe Linear first, then Swiss Utility and Structured Rows.
-- **Minimal, calm, or design-led:** Swiss Utility, Quiet Editorial, and Soft Studio.
-- **Bold, technical, or systems-minded:** Cobalt System, Swiss Utility, and Quiet Editorial.
-- **No preference stated:** show a visually varied trio: Swiss Utility for most working designers, Soft Studio for early-career candidates, and Quiet Editorial for senior candidates with a sharp positioning line.
+- **Experienced product or design-system candidate:** Professional Experience, Senior Editorial, and Product Systems.
+- **Early-career candidate or candidate with several projects, awards, or community roles:** Evidence-led, Portfolio Creative, and Professional Experience.
+- **Visual, brand, or interaction designer:** Portfolio Creative, Senior Editorial, and Product Systems.
+- **Dense content, recruiter portals, or explicit ATS requirement:** ATS-safe Linear first, then Professional Experience and Evidence-led.
+- **Minimal, calm, or design-led:** Professional Experience, Senior Editorial, and Portfolio Creative.
+- **Bold, technical, or systems-minded:** Product Systems, Professional Experience, and Senior Editorial.
+- **No preference stated:** show a visually varied trio: Professional Experience for most working designers, Portfolio Creative for early-career candidates, and Senior Editorial for senior candidates with a sharp positioning line.
 
 Only skip version selection if the user explicitly asks the skill to choose on their behalf or requires an immediate single-version delivery. State the selected template and why.
 
